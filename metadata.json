@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Quotes",
+  "description": "Generate stunning, unique quote cards using Google's Gemini for wisdom and Imagen for beautiful, context-aware imagery.",
+  "requestFramePermissions": []
+}
